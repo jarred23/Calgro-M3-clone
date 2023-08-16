@@ -1,0 +1,24 @@
+.card-main-body {
+    width: 2000px;
+    height: 500px;
+}
+
+.card-body1 {
+    width: px;
+    height: 450px;
+}
+
+.card-body2 {
+    width:  100px;
+    height: 300px ;
+}
+
+  .col {
+    border-right: 1px solid #e0e0e0; /* Add a border on the right side of each column */
+    padding-right: 15px; /* Add some spacing to the right of each column content */
+  }
+
+  .col:last-child {
+    border-right: none; /* Remove the border on the last column */
+  }
+
