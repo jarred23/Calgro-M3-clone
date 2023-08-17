@@ -1,10 +1,10 @@
 const DegoedeHoop = {
-  address: "12 one street",
+  address: "C0670 Ultra Ave, Scottsdene, Cape Town, 7570",
   name: "De Goede Hoop",
   rooms: 2,
   bathroom: 1,
   garage: 0,
-  price: "Starting at R570,000.00",
+  price: 570000,
   status: "avaidable",
   imageUrl: "house-1 copy.jpg",
   SquareMeter: "40㎡",
@@ -19,8 +19,6 @@ const DegoedeHoop = {
   slideImg8: "assets/images/De Goede Hoop/8.jpg",
   slideImg9: "assets/images/De Goede Hoop/9.jpg",
   slideImg10: "assets/images/De Goede Hoop/10.jpg",
-
-  
 
   changeStatusPending: function () {
     this.status = "Low Amount Left";

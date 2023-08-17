@@ -1,5 +1,5 @@
 const apartmentLofts51 = {
-  address: "12 one street",
+  address: "Proton Street, Belhar 8, Cape Town, 7493",
   rooms: 3,
   bathroom: 1.5,
   garage: 1,
@@ -9,12 +9,18 @@ const apartmentLofts51 = {
   imageUrl: "assets/images/Belhar lofts full cover image1.jpeg",
   SquareMeter: "51㎡",
   front_discription: "Belhar Lofts wondering",
-    slideImg01: "assets/images/51m2 Belhar Lofts/51m2 Belhar Lofts kitchen_living room.img.jpg",
-    slideImg02: "assets/images/51m2 Belhar Lofts/51m2 Belhar lofts_living room.img.jpg",
-    slideImg03: "assets/images/51m2 Belhar Lofts/51m2 Belhar lofts _living room(2).img.jpg",
-    slideImg04: "assets/images/51m2 Belhar Lofts/51m2 Belhar Lofts_bathroom_img.jpg",
-    slideImg05: "assets/images/51m2 Belhar Lofts/51m2 Belhar Lofts_Bedroom 1.img.jpg",
-    slideImg06: "assets/images/51m2 Belhar Lofts/51m2 Belhar Lofts_Bedroom 2.img.jpg",
+  slideImg01:
+    "assets/images/51m2 Belhar Lofts/51m2 Belhar Lofts kitchen_living room.img.jpg",
+  slideImg02:
+    "assets/images/51m2 Belhar Lofts/51m2 Belhar lofts_living room.img.jpg",
+  slideImg03:
+    "assets/images/51m2 Belhar Lofts/51m2 Belhar lofts _living room(2).img.jpg",
+  slideImg04:
+    "assets/images/51m2 Belhar Lofts/51m2 Belhar Lofts_bathroom_img.jpg",
+  slideImg05:
+    "assets/images/51m2 Belhar Lofts/51m2 Belhar Lofts_Bedroom 1.img.jpg",
+  slideImg06:
+    "assets/images/51m2 Belhar Lofts/51m2 Belhar Lofts_Bedroom 2.img.jpg",
 
   changeStatusPending: function () {
     this.status = "Low Amount left";

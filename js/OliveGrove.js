@@ -1,7 +1,7 @@
 //all objects//
 
 const houseOliveGrove = {
-  address: "12 one street",
+  address: "Kern Cres, Belhar 8, Cape Town, 7493, South Africa",
   rooms: "3 Bedrooms",
   bathroom: "Bathrooms 1.5",
   garage: 1,
@@ -16,15 +16,22 @@ const houseOliveGrove = {
   slideImg: "assets/images/Olive Grove/olive grove outside view.jpeg",
   slideImg1: "assets/images/Olive Grove/Olive Grove_Belhar_Balcony.img.jpg",
   sliderImg2: "assets/images/Olive Grove/Olive Grove_Belhar_bathroom 1.img.jpg",
-  sliderImg3: "assets/images/Olive Grove/Olive Grove_Belhar_Bathroom (2).img.jpg",
+  sliderImg3:
+    "assets/images/Olive Grove/Olive Grove_Belhar_Bathroom (2).img.jpg",
   sliderImg4: "assets/images/Olive Grove/Olive Grove_Belhar_Bedroom 1.img.jpg",
   sliderImg5: "assets/images/Olive Grove/Olive Grove_Belhar_Bedroom 2.img.jpg",
-  sliderImg6: "assets/images/Olive Grove/Olive Grove_Belhar_Main Bedroom.img.jpg",
-  sliderImg7: "assets/images/Olive Grove/Olive Grove_Belhar_outside of house.img.jpg",
-  sliderImg8: "assets/images/Olive Grove/Olive Grove_Belhar_Floor Plan_bottom.img.jpg",
-  sliderImg9: "assets/images/Olive Grove/Olive Grove_Belhar_Floor Plan_top.img.jpg",
-  sliderImg10: "assets/images/Olive Grove/Olive Grove_Belhar_bathroom 9.img.jpg",
-  sliderImg11: "assets/images/Olive Grove/Olive Grove_Belhar_Floor Plan_full plan.img.jpg",
+  sliderImg6:
+    "assets/images/Olive Grove/Olive Grove_Belhar_Main Bedroom.img.jpg",
+  sliderImg7:
+    "assets/images/Olive Grove/Olive Grove_Belhar_outside of house.img.jpg",
+  sliderImg8:
+    "assets/images/Olive Grove/Olive Grove_Belhar_Floor Plan_bottom.img.jpg",
+  sliderImg9:
+    "assets/images/Olive Grove/Olive Grove_Belhar_Floor Plan_top.img.jpg",
+  sliderImg10:
+    "assets/images/Olive Grove/Olive Grove_Belhar_bathroom 9.img.jpg",
+  sliderImg11:
+    "assets/images/Olive Grove/Olive Grove_Belhar_Floor Plan_full plan.img.jpg",
 
   changeStatusPending: function () {
     this.status = "Low Amount Left";

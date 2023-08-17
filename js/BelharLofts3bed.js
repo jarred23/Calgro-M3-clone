@@ -1,5 +1,5 @@
 const apartmentLofts = {
-  address: "11 one street",
+  address: "Proton Street, Belhar 8, Cape Town, 7493",
   rooms: "3",
   bathroom: "1.5",
   garage: 0,
@@ -8,10 +8,14 @@ const apartmentLofts = {
   status: "avadibal",
   imageUrl: "assets/images/Belhar lofts full cover image1.jpeg",
   SquareMeter: "77㎡ - 81㎡",
-  front_discription: "Get your stunning new modan house today, dont think twice about your familys futher!",
-  slideImg01: "assets/images/Belhar Lofts_Loft apartment/Belhar Lofts_Loft apartment_full underground area.img.jpg",
-  slideImg02: "assets/images/Belhar Lofts_Loft apartment/Belhar Lofts_loft apartment floor plan.img.jpg",
-  sliderImg03: "assets/images/Belhar Lofts_Loft apartment/Belhar Lofts_Lofts apartments_kitchen_living room.img.jpg",
+  front_discription:
+    "Get your stunning new modan house today, dont think twice about your familys futher!",
+  slideImg01:
+    "assets/images/Belhar Lofts_Loft apartment/Belhar Lofts_Loft apartment_full underground area.img.jpg",
+  slideImg02:
+    "assets/images/Belhar Lofts_Loft apartment/Belhar Lofts_loft apartment floor plan.img.jpg",
+  sliderImg03:
+    "assets/images/Belhar Lofts_Loft apartment/Belhar Lofts_Lofts apartments_kitchen_living room.img.jpg",
 
   changeStatusPending: function () {
     this.status = "Low Amount Left";
@@ -35,6 +39,8 @@ function populateImage_apartmentLofts() {
 document.getElementById("houseImg2").src = apartmentLofts.imageUrl;
 document.getElementById("3bedName").innerHTML = apartmentLofts.name;
 document.getElementById("priceloft").innerHTML = apartmentLofts.price;
+document.getElementById("addressOlive").innerHTML = apartmentLofts.address;
+
 
 //Photos//
 
