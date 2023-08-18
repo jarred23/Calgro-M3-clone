@@ -1,5 +1,5 @@
 const apartmentLofts41 = {
-  address1: "Proton Street, Belhar 8, Cape Town, 7493",
+  address1: "Belhar, Western Cape",
   name: "Belhar lofts - 41㎡",
   rooms: 3,
   bathroom: 1.5,

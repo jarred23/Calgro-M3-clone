@@ -1,7 +1,7 @@
 //all objects//
 
 const houseOliveGrove = {
-  address: "Kern Cres, Belhar 8, Cape Town, 7493, South Africa",
+  address: "Belhar, Cape Town, Western Cape",
   rooms: "3 Bedrooms",
   bathroom: "Bathrooms 1.5",
   garage: 1,

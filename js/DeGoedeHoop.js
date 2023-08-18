@@ -1,5 +1,5 @@
 const DegoedeHoop = {
-  address: "C0670 Ultra Ave, Scottsdene, Cape Town, 7570",
+  address: "Scottsdene, Cape Town, Western Cape",
   name: "De Goede Hoop",
   rooms: 2,
   bathroom: 1,
